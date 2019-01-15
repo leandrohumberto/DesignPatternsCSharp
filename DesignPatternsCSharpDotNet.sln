@@ -17,19 +17,19 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_DependencyInversionPrinc
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02. Builder", "02. Builder", "{0C9BA008-660A-4CD2-9846-AA282ED957EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "02. Builder\Builder\Builder.csproj", "{5DC497DC-2F19-4219-B0E4-2D7B08EDC29E}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03. Factory", "03. Factory", "{FC0A282A-A6AA-4A6E-B985-5203638C53C8}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory", "Factory\Factory.csproj", "{5C26ADD4-1E51-4D93-8215-7B26C30F1171}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04. Prototype", "04. Prototype", "{C9A79F7A-C5F5-4A3F-ABCA-AA6C8C38FE61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype", "Prototype\Prototype.csproj", "{9DDFB7F9-C38F-4009-B761-6F46A9922994}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05. Singleton", "05. Singleton", "{F510BC45-29E9-496B-9085-14CFD31CD51C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{952E59F6-B0B9-4FC7-9E2E-B89E81801DC3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "02. Builder\Builder.csproj", "{5DC497DC-2F19-4219-B0E4-2D7B08EDC29E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory", "03. Factory\Factory.csproj", "{5C26ADD4-1E51-4D93-8215-7B26C30F1171}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype", "04. Prototype\Prototype.csproj", "{9DDFB7F9-C38F-4009-B761-6F46A9922994}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "05. Singleton\Singleton.csproj", "{952E59F6-B0B9-4FC7-9E2E-B89E81801DC3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
