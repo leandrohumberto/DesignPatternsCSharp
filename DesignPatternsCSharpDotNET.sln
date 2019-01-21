@@ -39,6 +39,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07. Bridge", "07. Bridge", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge", "07. Bridge\Bridge.csproj", "{3A043CB3-4A73-4F9D-897D-902D84311AFD}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08. Composite", "08. Composite", "{8D271F85-477C-4C11-AD08-9C2A7CCD7131}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "08. Composite\Composite.csproj", "{7F93F0BA-998C-4213-91C4-B56E526621CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -89,6 +93,10 @@ Global
 		{3A043CB3-4A73-4F9D-897D-902D84311AFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A043CB3-4A73-4F9D-897D-902D84311AFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A043CB3-4A73-4F9D-897D-902D84311AFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F93F0BA-998C-4213-91C4-B56E526621CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F93F0BA-998C-4213-91C4-B56E526621CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F93F0BA-998C-4213-91C4-B56E526621CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F93F0BA-998C-4213-91C4-B56E526621CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -105,6 +113,7 @@ Global
 		{952E59F6-B0B9-4FC7-9E2E-B89E81801DC3} = {F510BC45-29E9-496B-9085-14CFD31CD51C}
 		{0BE52204-A278-417B-BE85-DE1E6D4EB636} = {CBF3BF85-3536-497E-A498-5FAF5B1CBAA4}
 		{3A043CB3-4A73-4F9D-897D-902D84311AFD} = {4B047BFF-1CA5-4F12-AA95-E6BED28B9279}
+		{7F93F0BA-998C-4213-91C4-B56E526621CF} = {8D271F85-477C-4C11-AD08-9C2A7CCD7131}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6D11BE8D-EB33-4A9B-B926-2BB29C5FEBC6}
